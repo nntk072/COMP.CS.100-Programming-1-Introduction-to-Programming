@@ -1,0 +1,9 @@
+moped 7
+train 3
+car 6
+moped 8
+train 1
+moped 1
+car 5
+car 1
+moped 2
